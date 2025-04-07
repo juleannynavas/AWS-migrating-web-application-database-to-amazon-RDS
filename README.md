@@ -1,4 +1,4 @@
-# AWS Amazon RDS Migration using AWS ClI
+# AWS Amazon RDS Migration using AWS CLI
 
 A hands-on AWS project focused on migrating a MariaDB database from an EC2 instance to Amazon RDS using AWS CLI. The project ensures enhanced scalability, reliability, and performance while minimizing downtime. It also incorporates monitoring through Amazon CloudWatch metrics.
 
